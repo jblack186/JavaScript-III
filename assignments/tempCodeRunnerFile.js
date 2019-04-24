@@ -1,1 +1,1 @@
-console.log(mage.name); // Bruce
+shark
